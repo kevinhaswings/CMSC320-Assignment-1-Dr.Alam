@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
 Answer: To help manage code and data changes when working with a team.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: 
