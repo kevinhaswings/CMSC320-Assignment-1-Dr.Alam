@@ -10,6 +10,12 @@ Answer: A field that data science can be applied to is healthcare. For example,
 	at risk for certain diseases and conditions. This enhances the quality
 	of care and the healthcare system.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: When you merge, you combine the histories of two branches into one.
+	While rebasing is committing one branch onto another which effectively
+	creates a new, linear history.
+
 Q3: What skills do you hope to improve during this course?
 
 Answer: I hope to improve my skills in SQL, Panda and Git as it is important
