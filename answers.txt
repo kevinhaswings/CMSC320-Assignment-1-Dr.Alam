@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: To help manage code and data changes when working with a team.
