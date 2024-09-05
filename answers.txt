@@ -9,3 +9,8 @@ Answer: A field that data science can be applied to is healthcare. For example,
 	to create a predictive model to forecast patient admissions, identify individuals
 	at risk for certain diseases and conditions. This enhances the quality
 	of care and the healthcare system.
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my skills in SQL, Panda and Git as it is important
+	to have these skills in the workforce.
